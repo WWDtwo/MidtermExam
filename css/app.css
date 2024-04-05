@@ -1,0 +1,40 @@
+* {
+    font-family: "Bitter", serif;
+}
+
+.pageHeader {
+    background-color: lightgray;
+    color: #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #000000;
+}
+
+.headerText {
+    font-family: "Bitter", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.customSubhead {
+    font-family: "Bitter", serif;
+    font-size: 19px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.luigiController {
+    border: 1px solid #000000;
+    margin-bottom: 10px;
+}
+
+.customCallout {
+    background-color: lightgray;
+    font-weight: 600;
+}
+
+hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
